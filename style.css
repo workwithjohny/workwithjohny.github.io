@@ -11,7 +11,7 @@
 html,
 body {
   font-family: "Montserrat", sans-serif;
-  height: 500vh;
+  height: 400vh;
   scroll-behavior: smooth;
 }
 
@@ -211,6 +211,7 @@ main .cases-images {
   column-gap: 17px;
   row-gap: 15px;
   cursor: pointer;
+  margin-left: 2rem;
 }
 main .cases-images .courbet img {
   transition: transform 0.9s 0s;
