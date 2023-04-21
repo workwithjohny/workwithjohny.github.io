@@ -216,35 +216,40 @@ main .cases-images {
   margin-top: 0.5rem;
 }
 main .cases-images .courbet img {
-  transition: transform 0.9s 0s;
+  transition: transform 0.3s 0s;
 }
 main .cases-images .courbet img:hover {
   transform: scale(1.1);
   padding: 0.2rem;
+  opacity: 70%;
 }
 main .cases-images .metafight img {
-  transition: transform 0.9s 0s;
+  transition: transform 0.3s 0s;
 }
 main .cases-images .metafight img:hover {
   transform: scale(1.1);
   padding: 0.2rem;
+  opacity: 70%;
 }
 main .cases-images .mafiafoot img {
-  transition: transform 0.9s 0s;
+  transition: transform 0.3s 0s;
 }
 main .cases-images .mafiafoot img:hover {
   transform: scale(1.1);
   padding: 0.2rem;
+  opacity: 70%;
 }
 main .cases-images .pioneers img {
-  transition: transform 0.2s 0s;
+  transition: transform 0.3s 0s;
+
 }
 main .cases-images .pioneers img:hover {
   transform: scale(1.1);
   padding: 0.2rem;
+  opacity: 70%;
 }
 main .cases-images h4 {
-  margin-bottom: 5px;
+  margin-bottom: 9px;
   font-size: 20px;
   color: #0d3941;
 }
