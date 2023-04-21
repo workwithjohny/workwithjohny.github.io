@@ -213,6 +213,7 @@ main .cases-images {
   row-gap: 15px;
   cursor: pointer;
   margin-left: 2rem;
+  margin-top: 0.5rem;
 }
 main .cases-images .courbet img {
   transition: transform 0.9s 0s;
@@ -236,7 +237,7 @@ main .cases-images .mafiafoot img:hover {
   padding: 0.2rem;
 }
 main .cases-images .pioneers img {
-  transition: transform 0.9s 0s;
+  transition: transform 0.2s 0s;
 }
 main .cases-images .pioneers img:hover {
   transform: scale(1.1);
