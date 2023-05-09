@@ -26,9 +26,12 @@ header {
   bottom: 0;
   z-index: 1;
 }
-header .logo img {
-  width: 120px;
+header .logo h1 {
+  color: #3ea5b8;
 }
+/* header .logo img {
+  width: 120px;
+} */
 header .nav-bar ul {
   display: flex;
   margin-top: 0.6rem;
